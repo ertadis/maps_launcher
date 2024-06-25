@@ -3,8 +3,8 @@ version '1.0-SNAPSHOT'
 
 buildscript {
     ext {
-        agp_version = '8.5.0'
-        kotlin_version = '2.0.0'
+        agp_version = '8.0.0'
+        kotlin_version = '1.8.10'
     }
     repositories {
         google()
@@ -51,5 +51,5 @@ android {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.0.0"
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.0.0'
 }
