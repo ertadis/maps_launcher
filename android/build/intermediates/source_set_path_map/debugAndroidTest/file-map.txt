@@ -1,0 +1,8 @@
+com.example.maps_launcher.test-androidTest-0 /Users/admin/repos2/maps_launcher/android/build/generated/res/resValues/androidTest/debug
+com.example.maps_launcher.test-androidTest-1 /Users/admin/repos2/maps_launcher/android/build/generated/res/rs/androidTest/debug
+com.example.maps_launcher.test-mergeDebugAndroidTestResources-2 /Users/admin/repos2/maps_launcher/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.maps_launcher.test-mergeDebugAndroidTestResources-3 /Users/admin/repos2/maps_launcher/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.maps_launcher.test-merged_res-4 /Users/admin/repos2/maps_launcher/android/build/intermediates/merged_res/debugAndroidTest
+com.example.maps_launcher.test-packaged_res-5 /Users/admin/repos2/maps_launcher/android/build/intermediates/packaged_res/debug
+com.example.maps_launcher.test-androidTest-6 /Users/admin/repos2/maps_launcher/android/src/androidTest/res
+com.example.maps_launcher.test-androidTestDebug-7 /Users/admin/repos2/maps_launcher/android/src/androidTestDebug/res
